@@ -1,0 +1,12 @@
+RESPONSE_CODE_KEY = "response_code"
+SUCCESS_CODE = "0"
+DATA = "data"
+RESPONSE_KEY = "response"
+RESPONSE_SUCCESS_MSG = "success"
+RESPONSE_OK_MSG = "ok"
+
+UNSUCCESS_CODE = "1"
+RESPONSE_ERROR = "error"
+INTERNAL_SERVER_ERROR = "Internal server error"
+LEAD_NOT_FOUND_ERROR = "Lead Not found Error"
+COMPANY_NOT_FORUND_ERROR = "company Not found Error"
