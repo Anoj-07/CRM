@@ -1,25 +1,20 @@
 # CRM
 
 ## About
-This CRM (Customer Relationship Management) system is designed to help businesses manage their interactions with customers, streamline processes, and improve profitability.
+A robust Django restframe work backend for Customer Relationship Management system with lead tracking, company management, and secure JWT authentication.
 
 ## Features
-- **User Management**: Create, edit, and delete user accounts.
-- **Contact Management**: Store and manage customer contact details.
-- **Sales Tracking**: Monitor and manage sales processes and performance.
-- **Reporting**: Generate reports to analyze business performance.
+Lead
+company
+Auth with JWT
 
 ## Tools Used
-- **Frontend**: React, Bootstrap
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Database** : Postgress
 - **Authentication**: JWT
 
 ## API Endpoints
-- **GET /api/users**: Fetch all users.
-- **POST /api/users**: Create a new user.
-- **PUT /api/users/:id**: Update user information.
-- **DELETE /api/users/:id**: Remove a user.
+
 
 ## Other Information
 - This project follows RESTful principles.
